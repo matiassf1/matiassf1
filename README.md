@@ -1,3 +1,4 @@
+```javascript
 const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Nodejs],
    technologies: {
@@ -10,3 +11,4 @@ const aboutMe = {
    iWantToLearn:["Redux", "Material UI", "Node.js", "MongoDB"],
    currentOccupation: ["Desarrollando, abierto a oportunidades de trabajo],
 };
+```
