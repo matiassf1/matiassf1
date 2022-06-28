@@ -1,14 +1,16 @@
 ```javascript
+
+const iAmLearning = ["Hooks de react.js en profundidad", "IndexedDB", "React Testing Library", "Jest"];
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS, Nodejs],
+   code: ["Javascript", "HTML", "CSS"],
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: ["Bootstrap", "Tailwindcss", "StyleComponent"],
-         others: ["HTML5", "Axios"]
-      }, 
+         css: ["Bootstrap", "Tailwindcss", "StyledComponents"],
+         others: ["Formik", "Axios", "SweetAlert2"]
+      }
    },
-   iWantToLearn:["Redux", "Material UI", "Node.js", "MongoDB"],
-   currentOccupation: ["Desarrollando, abierto a oportunidades de trabajo],
+   iWantToLearn:["Redux", "Next.js", "Express.js","Material UI", "Node.js", "MongoDB"],
+   currentOccupation: ["Desarrollando", iAmLearning,"Abierto a oportunidades de trabajo"],
 };
 ```
