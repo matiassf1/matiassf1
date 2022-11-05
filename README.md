@@ -7,7 +7,7 @@ const aboutMe = {
       frontEnd: {
          js: ["React"],
          css: ["Bootstrap", "Tailwindcss", "StyledComponents"],
-         others: ["axiosBasics", "SweetAlert2"]
+         others: ["axios", "SweetAlert2"]
       }
    },
    iWantToLearn:["Formik", "Next.js", "Express.js", "Node.js", "MongoDB", "GraphQL", "TypeScript"],
