@@ -1,6 +1,6 @@
 ```javascript
 
-const iAmLearning = ["Redux", "React Testing Library", "Jest"];
+const iAmLearning = ["Redux","Redux ToolKit","MaterialUI","React Testing Library","Jest"];
 const aboutMe = {
    code: ["Javascript", "HTML", "CSS"],
    technologies: {
@@ -10,7 +10,7 @@ const aboutMe = {
          others: ["axiosBasics", "SweetAlert2"]
       }
    },
-   iWantToLearn:["Formik", "Next.js", "Express.js","Material UI", "Node.js", "MongoDB"],
+   iWantToLearn:["Formik", "Next.js", "Express.js", "Node.js", "MongoDB", "GraphQL", "TypeScript"],
    currentOccupation: ["Desarrollando", iAmLearning,"Abierto a oportunidades de trabajo"],
 };
 ```
