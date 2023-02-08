@@ -10,7 +10,7 @@ const aboutMe = {
          others: ["axios", "SweetAlert2"]
       }
    },
-   iWantToLearn:["Formik", "Next.js", "Express.js", "Node.js", "MongoDB", "GraphQL", "TypeScript"],
+   iWantToLearn:["Formik", "Next.js","Nest", "Express.js", "Node.js", "MongoDB", "GraphQL", "TypeScript"],
    currentOccupation: ["Desarrollando", iAmLearning,"Abierto a oportunidades de trabajo"],
 };
 ```
