@@ -10,7 +10,7 @@ let aboutMe = {
          others: ["axios", "SweetAlert2"]
       }
    },
-   iWantToLearn:["Formik", "Next.js","Nest", "Express.js", "MongoDB", "GraphQL", ""],
+   iWantToLearn:["Formik", "Next.js","Nest", "Express.js", "MongoDB", "GraphQL", "Sass"],
    currentOccupation: ["Desarrollando", iAmLearning, "Open to work"]
 };
 ```
