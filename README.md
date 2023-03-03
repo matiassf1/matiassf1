@@ -1,6 +1,6 @@
 ```javascript
 
-let iAmLearning = ["Redux","Redux ToolKit","MaterialUI","React Testing Library","Jest","Node.js"];
+let iAmLearning = ["Motion","Node.js"];
 let aboutMe = {
    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
    technologies: {
