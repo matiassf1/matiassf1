@@ -1,16 +1,18 @@
 ```javascript
 
-let iAmLearning = ["Motion","Node.js", "Firebase", "Redux.js"];
+let iAmLearning = ["Framer Motion", "Firebase"];
 let aboutMe = {
    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap", "Tailwindcss", "StyledComponents"],
+         js: ["React", "TypeScript"],
+         css: ["Bootstrap", "Tailwindcss"],
+         react_libraries: ["Redux.js", "StyledComponents", "MaterialUI"],
          others: ["axios", "SweetAlert2"]
-      }
+      },
+      tools: ["Postman", "Insomnia"]
    },
-   iWantToLearn:["Formik", "Next.js","Nest", "Express.js", "MongoDB", "GraphQL", "Sass"],
+   iWantToLearn:["Formik", "Next.js","Nest", "Express.js", "MongoDB", "GraphQL", "Sass", "Node.js"],
    currentOccupation: ["Desarrollando", iAmLearning, "Open to work"]
 };
 ```
