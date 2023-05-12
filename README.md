@@ -1,6 +1,6 @@
 ```javascript
 
-let iAmLearning = ["Framer Motion", "React in deep","Express.js", "Node.js"];
+let iAmLearning = ["Express.js", "Node.js", "Java", "Problem-Solving Patterns"];
 let aboutMe = {
    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
    technologies: {
