@@ -7,7 +7,7 @@ let aboutMe = {
       frontEnd: {
          js: ["React", "TypeScript"],
          css: ["Bootstrap", "Tailwindcss"],
-         react_libraries: ["Redux.js", "StyledComponents", "MaterialUI"],
+         react_libraries: ["Redux.js", "StyledComponents", "ChakraUI", "MaterialUI"],
          others: ["axios", "SweetAlert2"]
       },
       tools: ["Postman", "Insomnia"]
