@@ -1,18 +1,23 @@
 ```javascript
 
-let iAmLearning = ["Express.js", "Node.js", "Java", "Problem-Solving Patterns"];
+let iAmLearning = ["NestJS", "AWS"];
 let aboutMe = {
-   code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+   code: ["JavaScript","TypeScript","Java","HTML","CSS"],
    technologies: {
       frontEnd: {
-         js: ["React", "TypeScript"],
-         css: ["Bootstrap", "Tailwindcss"],
-         react_libraries: ["Redux.js", "StyledComponents", "ChakraUI", "MaterialUI"],
-         others: ["axios", "SweetAlert2"]
+         js: ["React","TypeScript"],
+         css: ["Bootstrap","Tailwindcss","ChakraUI","MaterialUI"],
+         react_libraries: ["Redux.js","StyledComponents","react-router"],
+         others: ["fetch","axios","SweetAlert2","Formik","TanStack Query"],
       },
-      tools: ["Postman", "Insomnia"]
+      backEnd:{
+         relationalDB: ["MySql","SqlServer"],
+         nonRelationalDB: null,
+         others: ["TypeOrm", "Fixtures"],
+      },
+      tools: ["Postman", "Insomnia"],
    },
-   iWantToLearn:["Formik", "Next.js","Nest", "Express.js", "MongoDB", "GraphQL", "Sass", "Node.js"],
-   currentOccupation: ["Desarrollando", iAmLearning, "Open to work"]
+   iWantToLearn:["Next.js","Express.js","MongoDB","GraphQL"],
+   currentOccupation: ["Developing", iAmLearning, "Listening for offers, two weeks notice"],
 };
 ```
