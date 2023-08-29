@@ -15,7 +15,7 @@ let aboutMe = {
          nonRelationalDB: null,
          others: ["TypeOrm", "Fixtures"],
       },
-      tools: ["Postman", "Insomnia"],
+      tools: ["Postman", "Insomnia", "Profiler", "SonarQube"],
    },
    iWantToLearn:["Next.js","Express.js","MongoDB","GraphQL"],
    currentOccupation: ["Developing", iAmLearning, "Listening for offers, two weeks notice"],
