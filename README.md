@@ -1,8 +1,8 @@
 ```javascript
 
-let iAmLearning = ["NestJS", "AWS"];
+let iAmLearning = ["AWS"];
 let aboutMe = {
-   code: ["JavaScript","TypeScript","Java","HTML","CSS"],
+   code: ["JavaScript","TypeScript","Java","NestJS","HTML","CSS"],
    technologies: {
       frontEnd: {
          js: ["React","TypeScript"],
