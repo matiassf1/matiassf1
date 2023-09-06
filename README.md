@@ -1,6 +1,6 @@
 ```javascript
 
-let iAmLearning = ["AWS"];
+let iAmLearning = ["Express.js"];
 let aboutMe = {
    code: ["JavaScript","TypeScript","Java","NestJS","HTML","CSS"],
    technologies: {
