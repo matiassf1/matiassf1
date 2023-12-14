@@ -1,23 +1,22 @@
-```javascript
+```
 
-let iAmLearning = ["Express.js"];
+let iAmLearning = ["Express.js", "AWS", "MongoDB"];
 let aboutMe = {
-   code: ["JavaScript","TypeScript","Java","NestJS","HTML","CSS"],
+   code: ["JavaScript","TypeScript","NestJS"],
    technologies: {
       frontEnd: {
          js: ["React","TypeScript"],
          css: ["Bootstrap","Tailwindcss","ChakraUI","MaterialUI"],
-         react_libraries: ["Redux.js","StyledComponents","react-router"],
-         others: ["fetch","axios","SweetAlert2","Formik","TanStack Query"],
+         others: ["fetch","axios","SweetAlert2","Formik","TanStack Query", "Cypress"],
       },
       backEnd:{
          relationalDB: ["MySql","SqlServer"],
          nonRelationalDB: null,
-         others: ["TypeOrm", "Fixtures"],
+         others: ["TypeOrm", "Docker"],
       },
       tools: ["Postman", "Insomnia", "Profiler", "SonarQube"],
    },
-   iWantToLearn:["Next.js","Express.js","MongoDB","GraphQL"],
-   currentOccupation: ["Developing", iAmLearning, "Listening for offers, two weeks notice"],
+   iWantToLearn:["Next.js","GraphQL"],
+   currentOccupation: ["Developing", iAmLearning],
 };
 ```
