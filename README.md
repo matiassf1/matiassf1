@@ -16,7 +16,7 @@ let aboutMe = {
       },
       tools: ["Postman", "Insomnia", "Profiler", "SonarQube"],
    },
-   iWantToLearn:["Next.js","GraphQL"],
+   iWantToLearn:["Next.js","Rust"],
    currentOccupation: ["Developing", iAmLearning],
 };
 ```
