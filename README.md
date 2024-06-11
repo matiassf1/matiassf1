@@ -1,6 +1,6 @@
 ```
 
-let iAmLearning = ["Express.js", "AWS", "MongoDB"];
+let iAmLearning = ["MongoDB"];
 let aboutMe = {
    code: ["JavaScript","TypeScript","NestJS"],
    technologies: {
