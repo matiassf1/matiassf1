@@ -12,7 +12,7 @@ let aboutMe = {
       backEnd:{
          relationalDB: ["MySql","PostgreSQL","SqlServer"],
          nonRelationalDB: ["MongoDB"],
-         orms: ["TypeOrm", "Sequelize", "Mongoose"],
+         orms: ["TypeORM", "Sequelize", "Mongoose"],
       },
       testing:{
          e2e: ["Supertest", "Cypress"],
