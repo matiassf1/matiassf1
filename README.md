@@ -27,7 +27,7 @@ let aboutMe = {
       },
       paymentsServices:{
        stripe: ["Stripe", "Stripe Connect", "Stellar network"],
-      }
+      },
       tools: ["Postman","TablePlus", "Docker", "Slack"],
    },
 };
