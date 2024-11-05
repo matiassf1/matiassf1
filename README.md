@@ -2,7 +2,7 @@
 
 let iAmLearning = ["AWS", "Improving code"];
 let aboutMe = {
-   iWantToLearn:["Next.js","Rust"],
+   desiredJobs:["Fullstack Developer","Backend Developer"],
    currentOccupation: ["Developing", iAmLearning],
    technologies: {
       frontEnd: {
