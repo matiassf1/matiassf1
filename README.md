@@ -2,30 +2,33 @@
 
 let iAmLearning = ["AWS", "Improving code"];
 let aboutMe = {
-   code: ["JavaScript","TypeScript","NestJS"],
+   iWantToLearn:["Next.js","Rust"],
+   currentOccupation: ["Developing", iAmLearning],
    technologies: {
       frontEnd: {
-         js: ["React","TypeScript"],
+         javaScript: ["React", "vanilla"],
+         typeScript: ["React"],
          css: ["Bootstrap","Tailwindcss","ChakraUI","MaterialUI"],
          others: ["fetch","axios","SweetAlert2","Formik","TanStack Query"],
       },
       backEnd:{
+         nodejs: ["NestJS","Express.js","Fastify"],
          relationalDB: ["MySql","PostgreSQL","SqlServer"],
-         nonRelationalDB: ["MongoDB"],
-         orms: ["TypeORM", "Sequelize", "Mongoose"],
+         nonRelationalDB: ["MongoDB", "DynamoDB"],
+         orms: ["TypeORM", "Sequelize", "Mongoose", "Dynamoose"],
       },
       testing:{
-         e2e: ["Supertest", "Cypress"],
+         e2e: ["Cypress"],
+         functional: ["Supertest"],
          unit: ["Jest", "React Testing Library"],
-         other: ["fixtures"]
       },
-      integrations:{
+      cloudServices:{
          aws: ["AWS IVS", "AWS Cognito", "AWS Lambda", "AWS SQS"],
-         stripe: ["Stripe", "Stripe Connect"],
       },
-      tools: ["Postman", "Insomnia","TablePlus", "Docker", "AWS SDK", "Stripe CLI"],
+      paymentsServices:{
+       stripe: ["Stripe", "Stripe Connect", "Stellar network"],
+      }
+      tools: ["Postman","TablePlus", "Docker", "Slack"],
    },
-   iWantToLearn:["Next.js","Rust"],
-   currentOccupation: ["Developing", iAmLearning],
 };
 ```
